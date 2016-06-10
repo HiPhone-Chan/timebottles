@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:timebottles/server.git
+[submodule "ios"]
+	path = ios
+	url = git@github.com:timebottles/ios.git
